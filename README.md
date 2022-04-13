@@ -6,7 +6,9 @@ Demo notebooks for ATAP
 
 ## Notebook topics
 
-* [Notebook title](notebook.ipynb) – this notebook does things
+You can launch these notebooks directly on Binder
+
+* [Webcrawling](https://mybinder.org/v2/gh/Australian-Text-Analytics-Platform/atap-r-demos/master/?urlpath=lab/tree/notebooks/webcrawling.ipynb) – Intro to webcrawling in R
 
 
 
